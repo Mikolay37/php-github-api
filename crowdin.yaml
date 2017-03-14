@@ -1,7 +1,3 @@
 files:
-  - 
-    source: '/doc/**/*.md'
-    translation: '/doc-%two_letters_code%/**/%original_file_name%'
-  - 
-    source: /README.md
-    translation: '/README-%two_letters_code%.md'
+  - source: /README.md
+    translation: /README-%two_letters_code%.md
