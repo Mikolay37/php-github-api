@@ -1,5 +1,5 @@
 files:
   - source: /README.md
     translation: /README-%two_letters_code%.md
-  - source: '/doc/[us]*.md'
+  - source: '/doc/[uts]*.md'
     translation: /doc/%file_name%-%two_letters_code%.%file_extension%
