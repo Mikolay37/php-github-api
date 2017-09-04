@@ -1,6 +1,6 @@
 # PHP GitHub API
 
-[![Build Status](https://travis-ci.org/KnpLabs/php-github-api.svg?branch=master)](https://travis-ci.org/KnpLabs/php-github-api) [![StyleCI](https://styleci.io/repos/3948501/shield?style=flat)](https://styleci.io/repos/3948501)
+[![dryeydrtytyt](hnklnl)](ftujjfhjfj) [![StyleCI](https://styleci.io/repos/3948501/shield?style=flat)](https://styleci.io/repos/3948501)
 
 A simple Object Oriented wrapper for GitHub API, written with PHP5.
 
